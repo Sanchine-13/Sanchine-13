@@ -1,5 +1,7 @@
 - 👋 Salut, Je suis @Sanchine-13
 - 👀 Je sais coder en LUA et en JS...
 - 🌱 j'apprend a codeur presque tout les jour ...
-- 💞️ Je suis sur un server gmod nomé RiversideRP ... (https://steamcommunity.com/sharedfiles/filedetails/?id=2634899818)
+- 💞️ Je crée un bot discord ; ULX Bot.
 - 📫 Comment me contacter ? ... (zackary.emailpro@gmail.com)
+
+
