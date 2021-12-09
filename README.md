@@ -21,6 +21,9 @@
 
 -📓 Va noter ton nom dans mon death note
 
+- 💻 https://discord.gg/xpfDEz3b Serveur GtaRP Très cool 
+
+- 📫 Comment me contacter ? ... (zackary.emailpro@gmail.com)
 
 
 -----------------======================-----------------
