@@ -41,7 +41,7 @@
 
 -🖥️ Sais Construire un ordianateur 
 
--👨‍💻 Peut te voler ton compte Steam 
+-👨‍💻 Peut te voler ton compte steam 
 
 
 
