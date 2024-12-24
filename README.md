@@ -5,25 +5,13 @@
 
 -👤 Je m'appele Zackary
 
--👤 J'ai 15ans
-
--📚 Lycée La Bourdonnés 
+-👤 J'ai 15ans 
 
 -🗺️ J'habite a l'Île Maurice 🇲🇺
 
--💖 Heart Breack
+- 💻 Mon Discord : zkryy__
 
--💵 -1€ 
-
--🍔 Like Food 
-
--🦸‍♂️ Aimerai être Administrateur / Développeur sur un serveur RP (de préference GmodRP)
-
--📓 Va noter ton nom dans mon death note
-
-- 💻 https://discord.gg/xpfDEz3b Serveur GtaRP Très cool 
-
-- 📫 Comment me contacter ? ... (zackary.est@gmail.com)
+- 📫 Comment me contacter ? zackary.emailpro@gmail.com
 
 
 -----------------======================-----------------
@@ -31,16 +19,11 @@
 
                       A  U  T  R  E  
 
--💻 Sais "Coder" en Lua 
+- Mon Steam : https://steamcommunity.com/id/Stan_Woods/
 
--💻 Sais "Coder" en JS
+- Ancien SuperAdmin d'ElyLife (ElysionRP)
 
--💻 Sais "Coder" en HTML et CSS 
-
--🎮 Gros Gamers (/ Joueurs) Garry's Mod , CS:GO , Valorant, FiveM...
-
--🖥️ Sais Construire un ordianateur (sauf pour toi co$%ard) 
-
+- Connais les languages Lua, HTML, CSS. 
 
 
                      F      I     N
