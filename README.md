@@ -1,7 +1,7 @@
 -----------------======================-----------------
                     
                     
-                                                      P E R S O N A L
+                                                               P E R S O N A L
 
 - 👤 Je m'appele Zackary
 
@@ -17,7 +17,7 @@
 -----------------======================-----------------
 
 
-                                                        A  U  T  R  E  
+                                                                A  U  T  R  E  
 
 - Mon Steam : https://steamcommunity.com/id/Stan_Woods/
 
@@ -26,6 +26,6 @@
 - Connais les languages Lua, HTML, CSS. 
 
 
-                                                        F      I     N
+                                                                F      I     N
 
 -----------------======================-----------------
