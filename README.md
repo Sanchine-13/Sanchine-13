@@ -3,11 +3,11 @@
                     
                       P E R S O N A L
 
--👤 Je m'appele Zackary
+- 👤 Je m'appele Zackary
 
--👤 J'ai 15ans 
+- 👤 J'ai 15ans 
 
--🗺️ J'habite a l'Île Maurice 🇲🇺
+- 🗺️ J'habite a l'Île Maurice 🇲🇺
 
 - 💻 Mon Discord : zkryy__
 
